@@ -18,7 +18,7 @@ Ao longo de sua história, o PHP se tornou uma das linguagens de programação m
 
 Quais são os desafios em PHP?
 
-## Básico:
+## Básico
 
 Sintaxe e estrutura básica do PHP
 Variáveis e tipos de dados em PHP
@@ -29,7 +29,8 @@ Arrays em PHP
 Trabalhando com formulários em PHP
 Manipulação de strings em PHP
 Inclusão de arquivos em PHP
-## Intermediário:
+
+## Intermediário
 
 Manipulação de arquivos em PHP (leitura, gravação, upload)
 Banco de dados com PHP (conexão, consultas, inserção, atualização, exclusão)
@@ -39,7 +40,8 @@ Autenticação e autorização de usuários em PHP
 Tratamento de erros e exceções em PHP
 Uso de APIs em PHP
 Criação de bibliotecas e pacotes em PHP
-## Avançado:
+
+## Avançado
 
 Desenvolvimento de aplicativos web em PHP usando frameworks (Laravel, Symfony, CodeIgniter, entre outros)
 Criação de APIs RESTful em PHP
